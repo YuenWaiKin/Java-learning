@@ -1,0 +1,5 @@
+public method Q1PartA {
+public void main(String[] args) {
+System.out.println('a string");
+}
+}
